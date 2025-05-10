@@ -1,4 +1,4 @@
-## Oi, eu sou o Matheus Borba 👋
+## Matheus Borba
 
 Sou um estudante de Ciência da Computação no Insper com forte interesse em pesquisa científica e inteligência artificial — principalmente quando envolve aplicações em física e química.
 
